@@ -1,0 +1,18 @@
+- title: Overview
+  pages:
+    - path: /getting-started
+- title: AMA
+  pages:
+    - title: What movie and book would you most recommend?
+      path: /ama/recommends/navigation/movie
+    - title: What are you most grateful for in your life?
+      path: /ama/grateful
+    - title: What are your favorite parts of the world?
+      path: /ama/parts-of-world/navigation/eu
+    - title: What are your hobbies?
+      path: /ama/hobbies/navigation/childhood
+    - title: Who is your favorite musician?
+      path: /ama/musician
+- title: Closing
+  pages:
+    - path: /closing
